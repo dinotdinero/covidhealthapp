@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "435321123238",
+    "firebase_url": "https://eshop-61532-default-rtdb.firebaseio.com",
+    "project_id": "eshop-61532",
+    "storage_bucket": "eshop-61532.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435321123238:android:ce41edd313602d9706df67",
+        "android_client_info": {
+          "package_name": "com.muhammadali.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435321123238-iuakg4n4rcb1mgf80a6i1lnds3vq4vcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpBc8wqxRnB1q1QhvbJ6a_PoPTjcehfts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435321123238-iuakg4n4rcb1mgf80a6i1lnds3vq4vcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435321123238:android:234e9c25a0c1f2a706df67",
+        "android_client_info": {
+          "package_name": "com.shop.covidhealthtech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435321123238-iuakg4n4rcb1mgf80a6i1lnds3vq4vcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpBc8wqxRnB1q1QhvbJ6a_PoPTjcehfts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435321123238-iuakg4n4rcb1mgf80a6i1lnds3vq4vcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435321123238:android:e4e708470bce1a0b06df67",
+        "android_client_info": {
+          "package_name": "com.shop.covidhealthtechapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435321123238-iuakg4n4rcb1mgf80a6i1lnds3vq4vcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpBc8wqxRnB1q1QhvbJ6a_PoPTjcehfts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435321123238-iuakg4n4rcb1mgf80a6i1lnds3vq4vcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435321123238:android:95ee4aaaacf44b3a06df67",
+        "android_client_info": {
+          "package_name": "com.shop.covidheatlh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435321123238-iuakg4n4rcb1mgf80a6i1lnds3vq4vcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpBc8wqxRnB1q1QhvbJ6a_PoPTjcehfts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435321123238-iuakg4n4rcb1mgf80a6i1lnds3vq4vcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
